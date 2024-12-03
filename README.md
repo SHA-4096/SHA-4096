@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently an undergraduate at Huazhong University of Science and Technology. 
+
+- 🔭 I’m currently working on ..
+  - some LLM stuff associated with KV cache
+  - operational stuff that make service deployment easier
+- 🌱 I’m currently interested in ...
+  - The underlying mechanism of large language models
+  - How to build faster vitrual network (definetly a lover for tailscale and zerotier)
+- 📫 How to reach me: xuzhanchaomail@163.com
+
+![info](https://github-readme-stats.vercel.app/api?username=SHA-4096&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
