@@ -22,6 +22,8 @@ I'm currently an undergraduate at Huazhong University of Science and Technology.
 - 🌱 I’m currently interested in ...
   - The underlying mechanism of large language models
   - How to build faster vitrual network (definetly a lover for tailscale and zerotier)
-- 📫 How to reach me: xuzhanchaomail@163.com
+- 📫 How to reach me:
+  - xuzhanchaomail@163.com
+  - zhanchaoxu0228@gmail.com
 
 ![info](https://github-readme-stats.vercel.app/api?username=SHA-4096&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
